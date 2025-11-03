@@ -2,17 +2,12 @@
 
 # 🏥 Patient Appointment System - Frontend 📅
 
-**Watch full video demonstration of the software**
-
-[![Watch the video](./Patient%20Appointment%20System.png)](https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7198646882674339840?compact=1)
-
 **Harnessing the Power of Modern Web Technologies to Streamline Healthcare Appointments**
 
 [![Vite](https://img.shields.io/badge/built_with-Vite-blueviolet)](https://vitejs.dev/)
 [![React](https://img.shields.io/badge/framework-React-blue)](https://reactjs.org/)
 [![TanStack Query](https://img.shields.io/badge/state_management-TanStack_Query-orange)](https://tanstack.com/query/v4)
 [![Shadcn UI](https://img.shields.io/badge/UI_library-Shadcn_UI-yellowgreen)](https://shadcn.com/)
-[![Stripe Integration](https://img.shields.io/badge/payment-Stripe_integration-blue)](https://stripe.com/)
 
 </div>
 
@@ -81,4 +76,4 @@ Visit `http://localhost:3000` to explore the application.
 
 ## 🔧 Reporting Issues
 
-Encounter a bug or have a suggestion? Please [open an issue](https://github.com/Jhaveri-Jeet/Patient-Appointment-System-Admin/issues) to help us improve.
+Encounter a bug or have a suggestion? Please [open an issue](https://github.com/saibhardwajkamma/Patient-Appointment-System-Admin/issues) to help us improve.
